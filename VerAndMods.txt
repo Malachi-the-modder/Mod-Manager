@@ -1,4 +1,4 @@
 1.00
-https://github.com/Malachi-the-modder/ownerids/releases/download/Malachis_Menu_Reborn/Malachis_Menu_Reborn.dll^A good mod menu made by Malachi_the_modder (same person who made this Mod Manager). This mod menu is overpowerd, undetected, and super customizable. [NEW]
+https://github.com/Malachi-the-modder/ownerids/releases/download/Malachis_Menu_Reborn/Malachis_Menu_Reborn.dll^A good mod menu made by Malachi_the_modder (same person who made this Mod Manager). This mod menu is overpowerd, undetected, and super customizable.
 WalkSim.dll^Allows you to walk, emote, and fly using your keyboard.
 UnityExplorer.zip^Universal tool to debug and explorer unity games.
