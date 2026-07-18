@@ -4,5 +4,7 @@ WalkSim.dll^Allows you to walk, emote, and fly using your keyboard.
 UnityExplorer.zip^Universal tool to debug and explorer unity games.
 https://github.com/CheffyCaster/StreamCodeMOD/releases/download/LIVE/StreamCodeMOD.dll^Are you tired of CHANGING the code in obs EACH time you switch codes? Do your viewers get mad each time they HOP on there VR and get mad because ITS FULL???? WELL GUESS WHAT, Introducing StreamCodeMOD, we offer: No setup | K to toggle code for hiding codes | Smooth gui and toggle | Useful for streamers | Easy to Use | Draggable | And more to come
 https://github.com/ZlothY29IQ/Zlothy-Nametag/releases/download/V1.5.0/ZlothYNametag.dll^Fork of a nametag mod made by hansolo1000falcon
-https://github.com/menker-cs/Elixir/releases/latest/download/Elixir.dll^null [NEW]
-https://github.com/Cha554/Spectral-BluShop-Download/releases/download/version/Spectral.Menu.dll^A good free menu, if you have any questions contact gg/mistt on discord [NEW]
+https://github.com/menker-cs/Elixir/releases/latest/download/Elixir.dll^null
+https://github.com/Cha554/Spectral-BluShop-Download/releases/download/version/Spectral.Menu.dll^A good free menu, if you have any questions contact gg/mistt on discord
+https://github.com/sirkingbinx/LibrePad/releases/download/1.0.1/LibrePad.dll^This is a fork of LibrePad with some code differences and custom features, but they both look about the exact same. If you want a version actually supported, you should check upstream. [NEW]
+OverstockedBepinex.dll^overstocked is a gorilla tag mod which adds a head in the mirror room, using overstocked you can buy any cosmetic on sale at the given moment, even from previous updates, as long as its on sale. after buying, it will not take your shiny rocks or let anyone else see the cosmetic for a day or two, after a day or two, the shiny rocks will get tooken from your account and others will see the cosmetic. [NEW]
