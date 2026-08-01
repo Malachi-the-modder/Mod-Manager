@@ -9,3 +9,4 @@ Overstocked.dll^overstocked is a gorilla tag mod which adds a head in the mirror
 TooMuchInfo.dll^A nametag mod that shows you lots of info about the player.
 https://github.com/hamburbur-org/hamburbur/releases/download/V6.2.1/hamburbur.dll^This is a simple, clean, and easy-to-use mod menu. No clutter. No overcomplication. Just a quality modding experience.[space][space]This mod menu focuses on simplicity above everything else. The goal is to provide a clean and minimal mod menu experience without unnecessary features or visual noise.
 GorillaComputer.zip^Tuff computer mod with clear mic options and more.
+https://github.com/sirkingbinx/LibrePad/releases/download/1.0.1/LibrePad.dll^This is a fork of LibrePad with some code differences and custom features, but they both look about the exact same. If you want a version actually supported, you should check upstream. [NEW]
